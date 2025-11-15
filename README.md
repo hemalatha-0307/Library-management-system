@@ -36,7 +36,6 @@ Stores details of all books available in the library.
 * **total_copies**
 * **available_copies**
 
----
 
 ## 👤 **Members Table**
 
@@ -48,7 +47,6 @@ Holds information about individuals who borrow books.
 * **phone**
 * **membership_date**
 
----
 
 ## 🔄 **Transactions Table**
 
@@ -61,7 +59,6 @@ Tracks every issued and returned book with full history.
 * **return_date**
 * **status**
 
----
 
 ## 💰 **Fines Table**
 
@@ -75,7 +72,6 @@ Stores fine amounts generated for late returns.
 
 # 🔑 Key Functional Modules
 
----
 
 ## 📘 **1. Book Management**
 
@@ -86,7 +82,6 @@ Stores fine amounts generated for late returns.
 
 Ensures a structured and searchable catalogue.
 
----
 
 ## 👤 **2. Member Management**
 
@@ -96,7 +91,6 @@ Ensures a structured and searchable catalogue.
 
 Enables smooth tracking of borrowers and their activities.
 
----
 
 ## 🔄 **3. Book Issue & Return Management**
 
@@ -115,7 +109,6 @@ Enables smooth tracking of borrowers and their activities.
 
 This module mirrors real-life library operations.
 
----
 
 # 💰 Automated Fine Calculation
 
@@ -189,8 +182,6 @@ The **Library Management System** integrates **Java**, **JDBC**, and **MySQL** t
 * Software design
 * Database management
 * Logical problem solving
-
-Making it a strong academic and real-world project.
 
 ---
 
