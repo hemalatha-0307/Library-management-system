@@ -23,7 +23,6 @@ The system demonstrates strong backend development skills and real-world DBMS im
 
 The system uses **four interconnected relational tables** for clean and organized data flow.
 
----
 
 ## 📘 **Books Table**
 
